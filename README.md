@@ -22,3 +22,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 ----
 [MIT](https://choosealicense.com/licenses/mit/)
+# Projemin resmi
+
+![](https://i.ibb.co/qRvV6g8/resim-2022-08-13-013254326.png)
